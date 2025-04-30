@@ -1,0 +1,13 @@
+# Target labels
+ pwm
+# Source files and their labels
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/CMakeFiles/pwm
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/CMakeFiles/pwm.rule
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/CMakeFiles/pwm-complete.rule
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-build.rule
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-configure.rule
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-download.rule
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-install.rule
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-mkdir.rule
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-patch.rule
+/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-update.rule

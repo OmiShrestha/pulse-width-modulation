@@ -1,0 +1,19 @@
+{
+  "toolchainPath": "/opt/nordic/ncs/toolchains/b8efef2ad5",
+  "sdkPath": "/opt/nordic/ncs/v2.9.0",
+  "board": "nrf52833dk/nrf52833",
+  "boardDir": "/opt/nordic/ncs/v2.9.0/zephyr/boards/nordic/nrf52833dk",
+  "boardDirs": [
+    "/opt/nordic/ncs/v2.9.0/zephyr/boards/nordic/nrf52833dk"
+  ],
+  "optimizations": "none",
+  "cmakeArgs": [
+    "-DBOARD_ROOT=\"/Users/theomigod/pwm\""
+  ],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}

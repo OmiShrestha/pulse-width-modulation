@@ -1,0 +1,7 @@
+default: pwm
+build_dir: /Users/theomigod/others/pwm/build
+domains:
+  - name: pwm
+    build_dir: /Users/theomigod/others/pwm/build/pwm
+flash_order:
+  - pwm

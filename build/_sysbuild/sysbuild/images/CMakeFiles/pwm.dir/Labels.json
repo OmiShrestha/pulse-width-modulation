@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/CMakeFiles/pwm"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/CMakeFiles/pwm.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/CMakeFiles/pwm-complete.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-build.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-configure.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-download.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-install.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-mkdir.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-patch.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/pwm/build/_sysbuild/sysbuild/images/pwm-prefix/src/pwm-stamp/pwm-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pwm"
+		],
+		"name" : "pwm"
+	}
+}

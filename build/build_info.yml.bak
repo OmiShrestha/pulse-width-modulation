@@ -1,0 +1,6 @@
+west:
+  command: /opt/nordic/ncs/toolchains/b8efef2ad5/bin/west build --build-dir /Users/theomigod/others/pwm/build
+    /Users/theomigod/others/pwm --pristine --board nrf52833dk/nrf52833 -- -DNCS_TOOLCHAIN_VERSION=NONE
+    -DBOARD_ROOT=/Users/theomigod/others/pwm;/Users/theomigod/pwm
+  topdir: /opt/nordic/ncs/v2.9.0
+  version: 1.2.0
