@@ -47,5 +47,3 @@ This sample can be built and executed on any board with PWM LEDs connected. Ensu
 This project uses the following Zephyr API:
 
 - [LED Interface](https://docs.zephyrproject.org/latest/reference/peripherals/led.html)
-
-For more details, refer to the Zephyr documentation.
